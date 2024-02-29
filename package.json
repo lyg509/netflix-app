@@ -2,8 +2,8 @@
   "name": "netflix-clone",
   "version": "1.0.0",
   "private": true,
-  "engines":{
-    "node":"14.21.3"
+  "engines": {
+    "node": "20.x"
   },
   "dependencies": {
     "@splidejs/react-splide": "^0.4.4",
