@@ -1,6 +1,8 @@
 <div align="center">
+  <a href="https://netflix-app-opal.vercel.app/">
     <img height="70" src="./previews/netflix_logo.png" />
     <br /><br />
+    <a display="block" href="https://netflix-app-opal.vercel.app/">https://netflix-app-opal.vercel.app/</a>
     <br /><br />
     <img height="700" src="./previews/1.gif" />
   </a>
@@ -25,7 +27,7 @@
 
 ### Deploy
 
-
+- `Vacel`
 
 ## Project
 
